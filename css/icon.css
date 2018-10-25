@@ -1,0 +1,166 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?o81sn2');
+  src:  url('fonts/icomoon.eot?o81sn2#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?o81sn2') format('truetype'),
+    url('fonts/icomoon.woff?o81sn2') format('woff'),
+    url('fonts/icomoon.svg?o81sn2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow:before {
+  content: "\e900";
+}
+.icon-arrow-2:before {
+  content: "\e901";
+}
+.icon-burgermenu:before {
+  content: "\e902";
+}
+.icon-burger-menu2:before {
+  content: "\e903";
+}
+.icon-call:before {
+  content: "\e904";
+}
+.icon-callback:before {
+  content: "\e905";
+}
+.icon-cam:before {
+  content: "\e906";
+}
+.icon-chat:before {
+  content: "\e907";
+}
+.icon-close:before {
+  content: "\e908";
+}
+.icon-compass-solid:before {
+  content: "\e909";
+}
+.icon-door1:before {
+  content: "\e90a";
+  color: #fff;
+}
+.icon-door:before {
+  content: "\e90b";
+  color: #fff;
+}
+.icon-emergency:before {
+  content: "\e90c";
+}
+.icon-envelope-regular:before {
+  content: "\e90d";
+}
+.icon-facebook-square-brands:before {
+  content: "\e90e";
+}
+.icon-file-pdf-regular:before {
+  content: "\e90f";
+}
+.icon-google-plus-g-brands:before {
+  content: "\e910";
+}
+.icon-grid:before {
+  content: "\e911";
+}
+.icon-McDonalds:before {
+  content: "\e912";
+}
+.icon-menu:before {
+  content: "\e913";
+}
+.icon-menu-2:before {
+  content: "\e914";
+}
+.icon-menu-4:before {
+  content: "\e915";
+}
+.icon-menu-5:before {
+  content: "\e916";
+}
+.icon-menu-6:before {
+  content: "\e917";
+}
+.icon-metro:before {
+  content: "\e918";
+}
+.icon-metro-2:before {
+  content: "\e919";
+}
+.icon-pin:before {
+  content: "\e91a";
+}
+.icon-play:before {
+  content: "\e91b";
+}
+.icon-play-2:before {
+  content: "\e91c";
+}
+.icon-rotate:before {
+  content: "\e91d";
+}
+.icon-school:before {
+  content: "\e91e";
+}
+.icon-search-1:before {
+  content: "\e91f";
+}
+.icon-shopping-mall1:before {
+  content: "\e920";
+}
+.icon-shopping-mall .path1:before {
+  content: "\e921";
+  color: rgb(66, 66, 66);
+}
+.icon-shopping-mall .path2:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(66, 66, 66);
+}
+.icon-shopping-mall .path3:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(66, 66, 66);
+}
+.icon-shopping-mall .path4:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(17, 17, 17);
+}
+.icon-shopping-mall .path5:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(17, 17, 17);
+}
+.icon-Volleyball:before {
+  content: "\e926";
+}
+.icon-youtube-brands:before {
+  content: "\e927";
+}
+.icon-youtube-square-brands:before {
+  content: "\e928";
+}
+.icon-zoom:before {
+  content: "\e929";
+}
+.icon-zoom1:before {
+  content: "\e92a";
+}
